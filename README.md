@@ -1,2 +1,3 @@
 # basisdata
-materi basis data
+nama : juhariana
+nim : D0224336
