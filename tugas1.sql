@@ -191,7 +191,7 @@ MariaDB [toko_online]> select * from transaksi;
 +--------------+--------------+-----------+-------------------+--------+-------------+
 15 rows in set (0.008 sec)
   
-## Penggunaan Batween dan Where 
+## Penggunaan where dan between 
   
 MariaDB [toko_online]> SELECT * FROM produk
     -> WHERE kategori = 'Elektronik';
@@ -268,6 +268,7 @@ MariaDB [toko_online]> SELECT * FROM transaksi
 |            5 |            5 |         7 | 2025-11-03        |      1 |   120000.00 |
 +--------------+--------------+-----------+-------------------+--------+-------------+
 1 row in set (0.005 sec)
+
 
 
 
